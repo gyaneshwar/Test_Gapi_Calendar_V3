@@ -72,7 +72,6 @@ namespace GAPIs_Calendar_v3.Add_Code.GApisCalV3Integrator
                 return ex;
             }
 
-            return null;
         }
 
         public override object GetCalendarList()

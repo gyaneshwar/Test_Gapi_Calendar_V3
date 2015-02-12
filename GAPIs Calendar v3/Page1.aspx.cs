@@ -17,7 +17,6 @@ using Google.Apis.Auth.OAuth2.Flows;
 using Google.Apis.Auth.OAuth2.Web;
 using GAPIs_Calendar_v3.Add_Code.CalendarIntegrator;
 using System.Threading.Tasks;
-using Google.Apis.Auth.OAuth2.Web;
 
 namespace GAPIs_Calendar_v3
 {
